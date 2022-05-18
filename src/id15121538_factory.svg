@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="60 4 986 673" width="926px" height="669px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="625" y1="441" x2="635" y2="441" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="861" y1="234" x2="871" y2="234" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="635" y1="441" x2="861" y2="234" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="632.5" y1="441" x2="628.96446609407" y2="444.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="632.5" y1="441" x2="628.96446609407" y2="437.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="866" y1="234" x2="862.46446609407" y2="237.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="866" y1="234" x2="862.46446609407" y2="230.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="472" y1="421" x2="462" y2="421" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="297" y1="233" x2="287" y2="233" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="462" y1="421" x2="297" y2="233" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="464.5" y1="421" x2="468.03553390593" y2="424.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="464.5" y1="421" x2="468.03553390593" y2="417.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="292" y1="233" x2="295.53553390593" y2="236.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="292" y1="233" x2="295.53553390593" y2="229.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="228" y1="114" x2="238" y2="114" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="514" y1="49" x2="524" y2="49" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="238" y1="114" x2="514" y2="49" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="235.5" y1="114" x2="231.96446609407" y2="117.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="235.5" y1="114" x2="231.96446609407" y2="110.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="519" y1="49" x2="515.46446609407" y2="52.535533905933" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="519" y1="49" x2="515.46446609407" y2="45.464466094067" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="806" y1="91" x2="796" y2="91" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="687" y1="49" x2="677" y2="49" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="796" y1="91" x2="687" y2="49" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="798.5" y1="91" x2="802.03553390593" y2="94.535533905933" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="798.5" y1="91" x2="802.03553390593" y2="87.464466094067" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="682" y1="49" x2="685.53553390593" y2="52.535533905933" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="682" y1="49" x2="685.53553390593" y2="45.464466094067" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="806" y1="111" x2="796" y2="111" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="861" y1="234" x2="871" y2="234" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="796" y1="111" x2="861" y2="234" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="798.5" y1="111" x2="802.03553390593" y2="114.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="798.5" y1="111" x2="802.03553390593" y2="107.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="866" y1="234" x2="862.46446609407" y2="237.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="866" y1="234" x2="862.46446609407" y2="230.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="523" y1="150" x2="513" y2="150" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="456" y1="274" x2="466" y2="274" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="513" y1="150" x2="456" y2="274" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="515.5" y1="150" x2="519.03553390593" y2="153.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="515.5" y1="150" x2="519.03553390593" y2="146.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="461" y1="274" x2="457.46446609407" y2="277.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="461" y1="274" x2="457.46446609407" y2="270.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="523" y1="130" x2="513" y2="130" style="stroke:#333;stroke-width:1;"/>
+   <line x1="514" y1="49" x2="524" y2="49" style="stroke:#333;stroke-width:1;"/>
+   <line x1="513" y1="130" x2="514" y2="49" style="stroke:#333;stroke-width:1;"/>
+   <line x1="515.5" y1="130" x2="519.03553390593" y2="133.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="515.5" y1="130" x2="519.03553390593" y2="126.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="519" y1="49" x2="515.46446609407" y2="52.535533905933" style="stroke:#333;stroke-width:2;"/>
+   <line x1="519" y1="49" x2="515.46446609407" y2="45.464466094067" style="stroke:#333;stroke-width:2;"/>
+   <line x1="523" y1="170" x2="513" y2="170" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="297" y1="233" x2="287" y2="233" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="513" y1="170" x2="297" y2="233" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="515.5" y1="170" x2="519.03553390593" y2="173.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="515.5" y1="170" x2="519.03553390593" y2="166.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="292" y1="233" x2="295.53553390593" y2="236.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="292" y1="233" x2="295.53553390593" y2="229.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="492" y1="568" x2="482" y2="568" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="514" y1="49" x2="524" y2="49" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="482" y1="568" x2="514" y2="49" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="484.5" y1="568" x2="488.03553390593" y2="571.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="484.5" y1="568" x2="488.03553390593" y2="564.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="519" y1="49" x2="515.46446609407" y2="52.535533905933" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="519" y1="49" x2="515.46446609407" y2="45.464466094067" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="492" y1="588" x2="482" y2="588" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="456" y1="274" x2="466" y2="274" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="482" y1="588" x2="456" y2="274" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="484.5" y1="588" x2="488.03553390593" y2="591.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="484.5" y1="588" x2="488.03553390593" y2="584.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="461" y1="274" x2="457.46446609407" y2="277.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="461" y1="274" x2="457.46446609407" y2="270.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="645" y1="628" x2="655" y2="628" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="861" y1="234" x2="871" y2="234" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="655" y1="628" x2="861" y2="234" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="652.5" y1="628" x2="648.96446609407" y2="631.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="652.5" y1="628" x2="648.96446609407" y2="624.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="866" y1="234" x2="862.46446609407" y2="237.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="866" y1="234" x2="862.46446609407" y2="230.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="492" y1="608" x2="482" y2="608" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="297" y1="233" x2="287" y2="233" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="482" y1="608" x2="297" y2="233" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="484.5" y1="608" x2="488.03553390593" y2="611.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="484.5" y1="608" x2="488.03553390593" y2="604.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="292" y1="233" x2="295.53553390593" y2="236.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="292" y1="233" x2="295.53553390593" y2="229.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <rect width="153" height="20" x="466" y="244" style="fill:#007;stroke:black;"/>
+   <text width="153" height="20" x="471" y="258" style="fill:#fff;" font-family="Arial" font-size="16px"> довідник продукції</text>
+   <rect width="153" height="20" x="466" y="264" style="fill:#aea;stroke:black;"/>
+   <text width="153" height="20" x="471" y="278" style="fill:black;" font-family="Arial" font-size="16px">ID</text>
+   <rect width="153" height="20" x="466" y="284" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="471" y="298" style="fill:black;" font-family="Arial" font-size="16px">Назва</text>
+   <rect width="153" height="20" x="871" y="204" style="fill:#007;stroke:black;"/>
+   <text width="153" height="20" x="876" y="218" style="fill:#fff;" font-family="Arial" font-size="16px"> довідник сировини</text>
+   <rect width="153" height="20" x="871" y="224" style="fill:#aea;stroke:black;"/>
+   <text width="153" height="20" x="876" y="238" style="fill:black;" font-family="Arial" font-size="16px">ID</text>
+   <rect width="153" height="20" x="871" y="244" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="876" y="258" style="fill:black;" font-family="Arial" font-size="16px">Назва</text>
+   <rect width="153" height="20" x="871" y="264" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="876" y="278" style="fill:black;" font-family="Arial" font-size="16px">Одиниці вимірювання</text>
+   <rect width="153" height="20" x="134" y="203" style="fill:#007;stroke:black;"/>
+   <text width="153" height="20" x="139" y="217" style="fill:#fff;" font-family="Arial" font-size="16px"> довідник фасону</text>
+   <rect width="153" height="20" x="134" y="223" style="fill:#aea;stroke:black;"/>
+   <text width="153" height="20" x="139" y="237" style="fill:black;" font-family="Arial" font-size="16px">ID</text>
+   <rect width="153" height="20" x="134" y="243" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="139" y="257" style="fill:black;" font-family="Arial" font-size="16px">Назва</text>
+   <rect width="153" height="20" x="472" y="391" style="fill:#007;stroke:black;"/>
+   <text width="153" height="20" x="477" y="405" style="fill:#fff;" font-family="Arial" font-size="16px"> нормативний список</text>
+   <rect width="153" height="20" x="472" y="411" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="477" y="425" style="fill:black;" font-family="Arial" font-size="16px">ID фасону</text>
+   <rect width="153" height="20" x="472" y="431" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="477" y="445" style="fill:black;" font-family="Arial" font-size="16px">ID сировини</text>
+   <rect width="153" height="20" x="472" y="451" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="477" y="465" style="fill:black;" font-family="Arial" font-size="16px">Норма витрат</text>
+   <rect width="153" height="20" x="75" y="84" style="fill:#007;stroke:black;"/>
+   <text width="153" height="20" x="80" y="98" style="fill:#fff;" font-family="Arial" font-size="16px"> облік використаних матеріалів</text>
+   <rect width="153" height="20" x="75" y="104" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="80" y="118" style="fill:black;" font-family="Arial" font-size="16px">ID плану</text>
+   <rect width="153" height="20" x="75" y="124" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="80" y="138" style="fill:black;" font-family="Arial" font-size="16px">Дата</text>
+   <rect width="153" height="20" x="75" y="144" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="80" y="158" style="fill:black;" font-family="Arial" font-size="16px">Кількість використаних за день</text>
+   <rect width="153" height="20" x="75" y="164" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="80" y="178" style="fill:black;" font-family="Arial" font-size="16px">ID cировини</text>
+   <rect width="153" height="20" x="524" y="19" style="fill:#007;stroke:black;"/>
+   <text width="153" height="20" x="529" y="33" style="fill:#fff;" font-family="Arial" font-size="16px"> план</text>
+   <rect width="153" height="20" x="524" y="39" style="fill:#aea;stroke:black;"/>
+   <text width="153" height="20" x="529" y="53" style="fill:black;" font-family="Arial" font-size="16px">ID</text>
+   <rect width="153" height="20" x="524" y="59" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="529" y="73" style="fill:black;" font-family="Arial" font-size="16px">Місяць</text>
+   <rect width="153" height="20" x="806" y="61" style="fill:#007;stroke:black;"/>
+   <text width="153" height="20" x="811" y="75" style="fill:#fff;" font-family="Arial" font-size="16px"> потреби</text>
+   <rect width="153" height="20" x="806" y="81" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="811" y="95" style="fill:black;" font-family="Arial" font-size="16px">ID плану</text>
+   <rect width="153" height="20" x="806" y="101" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="811" y="115" style="fill:black;" font-family="Arial" font-size="16px">ID сировини</text>
+   <rect width="153" height="20" x="806" y="121" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="811" y="135" style="fill:black;" font-family="Arial" font-size="16px">Необхідний ліміт нам на місяць</text>
+   <rect width="153" height="20" x="523" y="100" style="fill:#007;stroke:black;"/>
+   <text width="153" height="20" x="528" y="114" style="fill:#fff;" font-family="Arial" font-size="16px"> продукція</text>
+   <rect width="153" height="20" x="523" y="120" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="528" y="134" style="fill:black;" font-family="Arial" font-size="16px">ID плану</text>
+   <rect width="153" height="20" x="523" y="140" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="528" y="154" style="fill:black;" font-family="Arial" font-size="16px">ID продукції</text>
+   <rect width="153" height="20" x="523" y="160" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="528" y="174" style="fill:black;" font-family="Arial" font-size="16px">ID фасону</text>
+   <rect width="153" height="20" x="523" y="180" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="528" y="194" style="fill:black;" font-family="Arial" font-size="16px">Кількість</text>
+   <rect width="153" height="20" x="492" y="538" style="fill:#007;stroke:black;"/>
+   <text width="153" height="20" x="497" y="552" style="fill:#fff;" font-family="Arial" font-size="16px"> проміжкова</text>
+   <rect width="153" height="20" x="492" y="558" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="497" y="572" style="fill:black;" font-family="Arial" font-size="16px">ID плану</text>
+   <rect width="153" height="20" x="492" y="578" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="497" y="592" style="fill:black;" font-family="Arial" font-size="16px">ID продукції</text>
+   <rect width="153" height="20" x="492" y="598" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="497" y="612" style="fill:black;" font-family="Arial" font-size="16px">ID фасону</text>
+   <rect width="153" height="20" x="492" y="618" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="497" y="632" style="fill:black;" font-family="Arial" font-size="16px">ID сировини</text>
+   <rect width="153" height="20" x="492" y="638" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="497" y="652" style="fill:black;" font-family="Arial" font-size="16px">Витрати</text>
+</svg>
